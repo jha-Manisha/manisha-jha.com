@@ -214,3 +214,9 @@ hr {
     display: block;
   }
 }
+
+.nav.li.a:hover{
+  background-color:dimgray;
+    color: rgb(7, 19, 124);
+    transition: all ease 0.2sec;
+}
